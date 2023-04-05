@@ -3,7 +3,7 @@ title: NexaTech Consulting Ltd.
 baseurl: "/Minimal-Text"
 desc: NexaTech Ltd Blog
 about: NexaTech is a consultancy firm specializing in providing innovative solutions and services to the aerospace and defense industries.
-image: https://pinto-light.glitch.me/?width=500&height=500&url=https://i.pinimg.com/originals/62/20/f1/6220f19d6c67587d5714ff5a2d5994e8.gif&extension=gif
+image: https://i.pinimg.com/originals/62/20/f1/6220f19d6c67587d5714ff5a2d5994e8.gif/?width=500&height=500&url=https://i.pinimg.com/originals/62/20/f1/6220f19d6c67587d5714ff5a2d5994e8.gif&extension=gif
 excerpt_separator: "<!-- more -->"
 markdown: kramdown
 gems:
